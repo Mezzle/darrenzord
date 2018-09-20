@@ -2,7 +2,7 @@
     /*background: black;*/
 /*}*/
 body {
-    background: black url(../images/bg.jpg);
+    background: black url(../images/bg-game.jpg);
     background-size: 100vh;
     background-position: 50% 0;
     background-repeat: no-repeat;
@@ -97,4 +97,9 @@ body {
     font-size: 60px;
     font-family: 'Open Sans Condensed', sans-serif;
     width: 300px;
+}
+
+a, a:visited, a:hover {
+    text-decoration: none;
+    color: white;
 }
